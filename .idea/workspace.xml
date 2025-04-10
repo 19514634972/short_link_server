@@ -7,7 +7,19 @@
     <cargoProject FILE="$PROJECT_DIR$/Cargo.toml" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e0845d5e-b21b-4c0a-b923-77f96bda94ca" name="更改" comment="路由组" />
+    <list default="true" id="e0845d5e-b21b-4c0a-b923-77f96bda94ca" name="更改" comment="路由组">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cargo.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Cargo.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server" beforeDir="false" afterPath="$PROJECT_DIR$/server" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Cargo.toml" beforeDir="false" afterPath="$PROJECT_DIR$/server/Cargo.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/src/handler/short_link.rs" beforeDir="false" afterPath="$PROJECT_DIR$/server/src/handler/short_link.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/src/initialize/config.rs" beforeDir="false" afterPath="$PROJECT_DIR$/server/src/initialize/config.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/src/main.rs" beforeDir="false" afterPath="$PROJECT_DIR$/server/src/main.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/src/model/short_link.rs" beforeDir="false" afterPath="$PROJECT_DIR$/server/src/model/short_link.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/src/router/router.rs" beforeDir="false" afterPath="$PROJECT_DIR$/server/src/router/router.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/src/utils/mod.rs" beforeDir="false" afterPath="$PROJECT_DIR$/server/src/utils/mod.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/.rustc_info.json" beforeDir="false" afterPath="$PROJECT_DIR$/target/.rustc_info.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -62,6 +74,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.go.migrated.go.modules.settings": "true",
     "RunOnceActivity.rust.reset.selective.auto.import": "true",
+    "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "last_opened_file_path": "D:/rust_code/short_link_server",
     "node.js.detected.package.eslint": "true",
@@ -74,6 +87,7 @@
     "org.rust.disableDetachedFileInspectionD:/rust_code/short_link_server/server/src/handler/auth.rs": "true",
     "org.rust.disableDetachedFileInspectionD:/rust_code/short_link_server/server/src/handler/user.rs": "true",
     "org.rust.disableDetachedFileInspectionD:/rust_code/short_link_server/server/src/lib.rs": "true",
+    "org.rust.disableDetachedFileInspectionD:/rust_code/short_link_server/server/src/main.rs": "true",
     "org.rust.disableDetachedFileInspectionD:/rust_code/short_link_server/server/src/router/router.rs": "true",
     "org.rust.disableDetachedFileInspectionD:/rust_code/short_link_server/server/src/utils/mod.rs": "true",
     "org.rust.disableDetachedFileInspectionD:/rust_code/short_link_server/server/src/utils/token.rs": "true",
@@ -144,7 +158,8 @@
       <workItem from="1743669314149" duration="2977000" />
       <workItem from="1744028028523" duration="13322000" />
       <workItem from="1744095038227" duration="342000" />
-      <workItem from="1744095645575" duration="25513000" />
+      <workItem from="1744095645575" duration="32421000" />
+      <workItem from="1744287202044" duration="3545000" />
     </task>
     <task id="LOCAL-00001" summary="gengxin">
       <option name="closed" value="true" />

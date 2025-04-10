@@ -958,9 +958,9 @@ dependencies = [
 
 [[package]]
 name = "fastdate"
-version = "0.3.36"
+version = "0.3.34"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "156d7b8d1dd7a23df63b78fa0f7b1578e4733842855036d35d29471439d6a633"
+checksum = "23d74e74593f93d4a751422edab81fe56df2fe40991ffc685a12ae0ca73290f2"
 dependencies = [
  "libc",
  "serde",
@@ -2722,6 +2722,7 @@ dependencies = [
  "db",
  "dotenv",
  "fast_log",
+ "fastdate",
  "jsonwebtoken",
  "log",
  "rand",
