@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="CargoProjects">
+    <cargoProject FILE="$PROJECT_DIR$/Cargo.toml" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e0845d5e-b21b-4c0a-b923-77f96bda94ca" name="更改" comment="路由组" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="RsBuildProfile:dev" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Rust File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/server" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;history&quot;: [
+    {
+      &quot;state&quot;: &quot;OPEN&quot;,
+      &quot;assignee&quot;: &quot;19514634972&quot;,
+      &quot;author&quot;: &quot;19514634972&quot;
+    }
+  ],
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;19514634972&quot;,
+    &quot;author&quot;: &quot;19514634972&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;git@github.com:19514634972/short_link_server.git&quot;,
+    &quot;accountId&quot;: &quot;a837d7dd-9693-4e74-b92c-96efc0c5d0cc&quot;
+  }
+}</component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="a5lttg41" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2tZNI1Txkg4qDIemDfVnYAxNMUW" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Cargo.Run server.executor": "Debug",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.go.migrated.go.modules.settings": "true",
+    "RunOnceActivity.rust.reset.selective.auto.import": "true",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "D:/rust_code/short_link_server",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "org.rust.cargo.project.model.PROJECT_DISCOVERY": "true",
+    "org.rust.cargo.project.model.impl.CargoExternalSystemProjectAware.subscribe.first.balloon": "",
+    "org.rust.disableDetachedFileInspectionD:/rust_code/short_link_server/server/src/handler/auth.rs": "true",
+    "org.rust.disableDetachedFileInspectionD:/rust_code/short_link_server/server/src/handler/user.rs": "true",
+    "org.rust.disableDetachedFileInspectionD:/rust_code/short_link_server/server/src/lib.rs": "true",
+    "org.rust.disableDetachedFileInspectionD:/rust_code/short_link_server/server/src/router/router.rs": "true",
+    "org.rust.disableDetachedFileInspectionD:/rust_code/short_link_server/server/src/utils/mod.rs": "true",
+    "org.rust.disableDetachedFileInspectionD:/rust_code/short_link_server/server/src/utils/token.rs": "true",
+    "org.rust.hideNoCargoProjectNotificationsD:/rust_code/short_link_server/server/src/initialize/config.rs": "true",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "ChangesTree.GroupingKeys": [
+      "directory",
+      "repository"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\rust_code\short_link_server\server\src" />
+      <recent name="D:\rust_code\short_link_server" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Run server" type="CargoCommandRunConfiguration" factoryName="Cargo Command" temporary="true">
+      <option name="buildProfileId" value="dev" />
+      <option name="command" value="run --package server --bin server" />
+      <option name="workingDirectory" value="file://$PROJECT_DIR$" />
+      <envs />
+      <option name="emulateTerminal" value="true" />
+      <option name="channel" value="DEFAULT" />
+      <option name="requiredFeatures" value="true" />
+      <option name="allFeatures" value="false" />
+      <option name="withSudo" value="false" />
+      <option name="buildTarget" value="REMOTE" />
+      <option name="backtrace" value="SHORT" />
+      <option name="isRedirectInput" value="false" />
+      <option name="redirectInputPath" value="" />
+      <method v="2">
+        <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Cargo.Run server" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="RustProjectSettings">
+    <option name="toolchainHomeDirectory" value="$USER_HOME$/.cargo/bin" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="e0845d5e-b21b-4c0a-b923-77f96bda94ca" name="更改" comment="" />
+      <created>1740555552623</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1740555552623</updated>
+      <workItem from="1740555554099" duration="4910000" />
+      <workItem from="1740561428588" duration="1793000" />
+      <workItem from="1740564650732" duration="2525000" />
+      <workItem from="1740567745047" duration="1015000" />
+      <workItem from="1740568989415" duration="1590000" />
+      <workItem from="1740570835264" duration="20780000" />
+      <workItem from="1740655657245" duration="24047000" />
+      <workItem from="1740724646992" duration="9410000" />
+      <workItem from="1740832616682" duration="158000" />
+      <workItem from="1740975250923" duration="2752000" />
+      <workItem from="1740985946950" duration="1723000" />
+      <workItem from="1741918604712" duration="555000" />
+      <workItem from="1743669314149" duration="2977000" />
+      <workItem from="1744028028523" duration="13322000" />
+      <workItem from="1744095038227" duration="342000" />
+      <workItem from="1744095645575" duration="25513000" />
+    </task>
+    <task id="LOCAL-00001" summary="gengxin">
+      <option name="closed" value="true" />
+      <created>1744034356850</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1744034356851</updated>
+    </task>
+    <task id="LOCAL-00002" summary="更新修改路有组">
+      <option name="closed" value="true" />
+      <created>1744269711879</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1744269711879</updated>
+    </task>
+    <task id="LOCAL-00003" summary="更新修改路有组">
+      <option name="closed" value="true" />
+      <created>1744269773993</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1744269773993</updated>
+    </task>
+    <task id="LOCAL-00004" summary="路由组">
+      <option name="closed" value="true" />
+      <created>1744270245930</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1744270245930</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="gengxin" />
+    <MESSAGE value="更新修改路有组" />
+    <MESSAGE value="路由组" />
+    <option name="LAST_COMMIT_MESSAGE" value="路由组" />
+  </component>
+  <component name="VgoProject">
+    <settings-migrated>true</settings-migrated>
+  </component>
+</project>
