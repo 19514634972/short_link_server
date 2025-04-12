@@ -1,0 +1,23 @@
+[workspace]
+resolver = "2"
+members = [
+    "server_config",
+    "server", "db",
+]
+
+
+[profile.release]
+codegen-units = 1
+incremental = true
+lto = true
+opt-level = 'z' # Optimize for size
+
+
+[profile.release.package.config]
+opt-level = 3
+
+[profile.release.package.server]
+opt-level = 3
+
+[profile.release.package.server_config]
+opt-level = 3

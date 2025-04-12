@@ -1,0 +1,25 @@
+[package]
+name = "db"
+version = "0.1.0"
+edition = "2021"
+
+[lib]
+path = "src/lib.rs"
+
+[dependencies]
+serde = { version = "1.0.215", features = ["derive"] }
+serde_json = "1.0.133"
+tokio = { version = "1.41.1", features = ["full"] }
+tracing-subscriber = "0.3.19"
+redis = { version = "0.24.0", features = ["tokio-comp"] }
+deadpool-redis = "0.13"
+thiserror = "1.0"
+chrono = { version = "0.4.39", features = ["serde"] }
+base64ct = "=1.6.0"
+server_config = { path = "../server_config" }
+
+[dependencies.sqlx]
+version="0.7.4"
+features = ["runtime-tokio-native-tls","mysql","chrono"]
+
+
